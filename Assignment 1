@@ -1,0 +1,10 @@
+
+1. Checking for Node version. 
+  D:\Vinay\New folder>node -v
+  v6.10.2
+
+2. Checking for NPM version.
+  D:\Vinay\New folder>npm -v
+  3.10.10
+  
+  
